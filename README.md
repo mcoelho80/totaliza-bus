@@ -18,6 +18,38 @@ PHP 5.3 ou superior
 2. Descompacte o arquivo de cada estado e coloque no mesmo diretório do script.
 3. Execute o script na linha de comando 'php totaliza-bus.php'.
 
+## Links direto para download
+
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_AC_28102014114450.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_AL_28102014114941.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_AM_28102014115349.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_AP_28102014115835.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_BA_28102014120236.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_CE_28102014120643.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_DF_28102014121036.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_ES_28102014121431.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_GO_28102014121839.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_MA_28102014122307.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_MG_28102014122730.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_MS_28102014123155.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_MT_28102014123633.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_PA_28102014124021.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_PB_28102014124426.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_PE_28102014124827.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_PI_28102014125213.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_PR_28102014125604.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_RJ_28102014130047.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_RN_28102014130526.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_RO_28102014130948.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_RR_28102014131402.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_RS_28102014131811.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_SC_28102014132154.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_SE_28102014132556.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_SP_28102014133018.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_TO_28102014133436.zip
+* http://agencia.tse.jus.br/estatistica/sead/eleicoes/eleicoes2014/buweb/bweb_2t_ZZ_28102014133904.zip
+
+
 ## Resultado esperado
 
 ### Resultado AC (arquivo bweb_2t_AC_28102014114450.txt)
