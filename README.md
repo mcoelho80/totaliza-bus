@@ -1,4 +1,6 @@
-# Script PHP que totaliza os boletins de urna fornecidos pelo TSE
+# totaliza-bus.php
+
+Script PHP que totaliza os boletins de urna fornecidos pelo TSE
 
 ## Objetivo
 
