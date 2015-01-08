@@ -8,6 +8,8 @@ O objetivo deste script é comprovar de que não houve fraude durante a transmis
 
 A premissa é simples: se todos os BUs (Boletins de Urna) até agora batem com os divulgados no TSE, a somatória destes BUs será o resultado da eleição.
 
+O objetivo deste script *não é provar que não ocorreu nenhuma fraude*, mas sim provar que não ocorreu uma fraude envolvendo a transmissão e a apuração.
+
 ## Requerimentos
 
 PHP 5.3 ou superior
