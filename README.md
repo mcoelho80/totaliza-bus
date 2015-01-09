@@ -315,4 +315,4 @@ Aecio      | 51.041.155
 Brancos    |  1.921.819
 Nulos      |  5.219.787
 
-1.679.881 registros processados
+1.679.881 boletins de urna processados
